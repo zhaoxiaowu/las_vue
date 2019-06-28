@@ -1,29 +1,7 @@
-# vue3
+前后端分离项目前端
+git地址：https://github.com/zhaoxiaowu/las_vue.git
 
-## Project setup
-```
-npm install
-```
+使用vue+vuex+axios+elementUI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+后端git地址：
+https://github.com/zhaoxiaowu/las.git
